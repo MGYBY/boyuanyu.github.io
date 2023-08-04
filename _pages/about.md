@@ -26,6 +26,6 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 
 # News
-**2020-1-1** <code>&nbsp;</code> <code>&nbsp;</code> :sparkles: *News item1*
+**2020-1-1** $\ \ \ $ `:sparkles:` *News item1*
 
 
