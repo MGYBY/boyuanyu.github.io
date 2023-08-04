@@ -20,8 +20,8 @@ Kelvin-wave induced equatorial current that gets unstable. 3200x800 grid points 
 
 
 
-JFM 1, abstract figure.
+JFM 1, abstract figure.   
 
-<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/jfm_1_figAbs.png" width="700px">
+<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/jfm_1_figAbs.png" width="700px" style="float: left">  
 
 ---
