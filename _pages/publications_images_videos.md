@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications and Gallery"
-permalink: /video/
+permalink: /publications_images_videos/
 author_profile: true
 
 ---
