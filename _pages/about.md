@@ -13,10 +13,15 @@ I am a Ph.D. candidate in the Civil Engineering Department at McGill University,
 I am originally from [Shijiazhuang](https://en.wikipedia.org/wiki/Shijiazhuang), China. In my spare time, I like going to the gym, reading books and daydreaming.
 
 Here are some of my research interests:
-| * Hydrodynamic instabilities. |  * Shallow water equations. |
-| * Finite volume method. |    * Riemann solvers.  |
-| * Roll waves and shear instabilities. | * Multiphase flow. |
-| * Non-Newtonian fluids. | * Open-source CFD.|
+* Hydrodynamic instabilities.
+* Shallow water equations.
+* Finite volume method.
+* Riemann solvers.
+* Roll waves and shear instabilities.
+* Multiphase flow.
+* Non-Newtonian fluids.
+* Open-source CFD.
+For a more detailed description of my research, feel free to view my [CV](https://mgyby.github.io/boyuanyu.github.io/CV)
 
 
 # News
