@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications & Gallery"
     url: /publications/
 
   # - title: "Talks"
@@ -16,7 +16,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: https://github.com/MGYBY/personal_cv/blob/main/elegant_resume/resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/

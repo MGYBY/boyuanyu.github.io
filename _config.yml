@@ -82,7 +82,7 @@ yandex_site_verification :
 author:
   name             : "Boyuan Yu"
   avatar           : "selfie.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD candidate, McGill University"
   location         : "Montreal"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/MGYBY"
+  github           : "MGYBY"
   google_plus      :
   keybase          :
   instagram        :
