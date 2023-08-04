@@ -22,10 +22,20 @@ Here are some of my research interests:
 * Non-Newtonian fluids.
 * Open-source CFD.
 
-For a more detailed description of my research, feel free to view my [CV](https://mgyby.github.io/boyuanyu.github.io/CV)
+For a more detailed description of my research, feel free to view my [CV](https://mgyby.github.io/boyuanyu.github.io/CV) and [publication list](https://mgyby.github.io/boyuanyu.github.io//publications/).
 
 
 # News
-**2020-1-1** $\ \ \ \ $ ✨ *News item1*
+**2023-8-4** $\ \ \ \ $ ✨ *First release of the website.*
 
+**2023-7-13** $\ \ \ \ $ ✨ *[A JFM paper]() is accepted.*
 
+**2022-11-8~10** $\ \ \ \ $ ✨ *Presentation in River Flow 2022 conference and Best Video Contest.*
+
+**2022-4-19** $\ \ \ \ $ ✨ *Research Proposal Examination is completed.*
+
+**2021-11-25** $\ \ \ \ $ ✨ *Comprehensive Examination is completed.*
+
+**2021-11-5** $\ \ \ \ $ ✨ *[A JFM paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/front-runner-in-roll-waves-produced-by-local-disturbances/CE5F2C383323DD9945D316A833F0B723) is accepted.*
+
+**2020-9-14** $\ \ \ \ $ ✨ *[The River Flow 2020 Conference Paper](https://www.taylorfrancis.com/chapters/edit/10.1201/b22619-12/wave-bed-friction-effect-instability-shear-flow-shallow-waters-boyuan-yu-vincent-chu) is published.*
