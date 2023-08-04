@@ -9,8 +9,8 @@ main:
     url: /publications_images_videos/
     # url: /portfolio/
 
-  - title: "Notes & Posts"
-    url: /posts/
+  # - title: "Notes & Posts"
+  #   url: /posts/
 
   # - title: "Talks"
   #   url: /talks/    
