@@ -31,7 +31,7 @@ DOI: [10.1017/jfm.2021.1011](https://doi.org/10.1017/jfm.2021.1011).
 
 **Boyuan Yu**, and Vincent H. Chu,  
 *Impact force of roll waves against obstacles*,   
-J. Fluid Mech., 999, A99 (2023) [25 pages];   
+J. Fluid Mech., 969, A31 (2023) [25 pages];   
 DOI: [10.1017/jfm.2023.580](https://doi.org/10.1017/jfm.2023.580).    
 <img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/jfm_2_figAbs.png" width="360px" >   
 <br />   
