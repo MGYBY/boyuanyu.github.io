@@ -20,6 +20,7 @@ Here are some of my research interests:
 * Roll waves and shear instabilities.
 * Multiphase flow.
 * Non-Newtonian fluids.
+* Multilayer equations.
 * Open-source CFD.
 
 For a more detailed description of my research, feel free to view my [CV](https://mgyby.github.io/boyuanyu.github.io//files/resume.pdf) and [publication list](https://mgyby.github.io/boyuanyu.github.io//publications/).
