@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the Civil Engineering Department at McGill University, working with Professor [Vincent Chu](https://www.mcgill.ca/civil/vincent-h-chu-0).
 
-I am originally from [Shijiazhuang](https://en.wikipedia.org/wiki/Shijiazhuang), China. In my spare time, I like going to the gym, reading books and daydreaming.
+I am originally from [Shijiazhuang](https://en.wikipedia.org/wiki/Shijiazhuang), China. In my spare time, I like going to the gym, reading books and taking a stroll.
 
 Here are some of my research interests:
 * Hydrodynamic instabilities.
