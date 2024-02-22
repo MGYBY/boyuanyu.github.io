@@ -19,9 +19,10 @@ Here are some of my research interests:
 * Riemann solvers.
 * Roll waves and shear instabilities.
 * Multiphase flow.
-* Non-Newtonian fluids.
+* Non-Newtonian fluids. Visco-plastic and visco-elastic fluids.
 * Multilayer equations.
 * Open-source CFD.
+* Spectral methods.
 
 For a more detailed description of my research, feel free to view my [CV](https://mgyby.github.io/boyuanyu.github.io//files/resume.pdf) and [publication list](https://mgyby.github.io/boyuanyu.github.io//publications/).
 
