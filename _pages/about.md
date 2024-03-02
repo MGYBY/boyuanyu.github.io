@@ -19,7 +19,10 @@ Here are some of my research interests:
 * Riemann solvers.
 * Roll waves and shear instabilities.
 * Multiphase flow.
-* Non-Newtonian fluids. Visco-plastic and visco-elastic fluids.
+* Non-Newtonian fluids. 
+  - Visco-plastic fluids
+  - Visco-elastic fluids
+  - Granular flow
 * Multilayer equations.
 * Open-source CFD.
 * Spectral methods.
