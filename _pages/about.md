@@ -31,6 +31,8 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 
 # News
+**2024-6-10~14** $\ \ \ \ $ ✨ *Attendance of **OMAE 2024** Conference in Singapore. Two of our papers were presented.*
+
 **2023-8-4** $\ \ \ \ $ ✨ *First release of the website.*
 
 **2023-7-13** $\ \ \ \ $ ✨ *[A JFM paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-force-of-roll-waves-against-obstacles/4F7E849662DEE81E72C3B37B0A84B4FB) is accepted.*
