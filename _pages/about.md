@@ -31,7 +31,7 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 
 # News
-**2024-6-10~14** $\ \ \ \ $ ✨ *Attendance of **OMAE 2024** Conference in Singapore. Two of our papers were presented.*
+**2024-6-10~14** $\ \ \ \ $ ✨ *Attendance of **OMAE 2024** Conference in Singapore. Two of our papers ([Link 1](https://omae.secure-platform.com/a/solicitations/214/sessiongallery/15873/application/121514), [Link 2](https://omae.secure-platform.com/a/solicitations/214/sessiongallery/15874/application/121513)) were presented.*
 
 **2023-8-4** $\ \ \ \ $ ✨ *First release of the website.*
 
