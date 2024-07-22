@@ -42,7 +42,7 @@ DOI: [10.1017/jfm.2023.580](https://doi.org/10.1017/jfm.2023.580).
 *Roll Waves in Mudflow Modelled as Herschel-Bulkley Fluids*,   
 J. Eng. Mech., xxx, xxx (2024) [xx pages];   
 DOI: TBD.    
-<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JEM_2024-7.jpg" width="360px" >   
+<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JEM_2024-7.jpg" width="500px" >   
 <br />  
 
 ---
