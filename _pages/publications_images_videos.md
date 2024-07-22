@@ -37,6 +37,15 @@ DOI: [10.1017/jfm.2023.580](https://doi.org/10.1017/jfm.2023.580).
 <br />   
 
 ---
+
+**Boyuan Yu**, and Vincent H. Chu,  
+*Roll Waves in Mudflow Modelled as Herschel-Bulkley Fluids*,   
+J. Eng. Mech., xxx, xxx (2024) [xx pages];   
+DOI: TBD.    
+<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JEM_2024-7.jpg" width="360px" >   
+<br />  
+
+---
 Best Video Contest of River Flow 2022     
 <video src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/jiang-jia-ravine_version2_1.mp4" controls="controls" style="max-width: 650px;">    
 </video>   
