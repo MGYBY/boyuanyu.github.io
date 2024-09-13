@@ -52,7 +52,7 @@ DOI: TBD.
 *Roll Waves on Laminar Sheet Flow of Newtonian Fluid with Negligible Surface Tension*,   
 J. Fluid Mech., xxx, xxx (2024) [30 pages, in print];   
 DOI: TBD.    
-<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JFM_2024_graphicAbstract_1.jpg" width="425px" >   
+<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JFM_2024_graphicAbstract_1.jpg" width="450px" >   
 <br />  
 
 ---
