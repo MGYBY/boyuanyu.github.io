@@ -40,8 +40,8 @@ DOI: [10.1017/jfm.2023.580](https://doi.org/10.1017/jfm.2023.580).
 
 **Boyuan Yu**, and Vincent H. Chu,  
 *Roll Waves in Mudflow Modelled as Herschel-Bulkley Fluids*,   
-J. Eng. Mech., xxx, xxx (2024) [xx pages, in print];   
-DOI: TBD.    
+J. Eng. Mech., xxx, xxx (2024) [17 pages, in print];   
+DOI: [10.1061/JENMDT.EMENG-7931](https://ascelibrary.org/doi/10.1061/JENMDT.EMENG-7931).    
 <img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JEM_2024-7.jpg" width="675px" >   
 <br />  
 
