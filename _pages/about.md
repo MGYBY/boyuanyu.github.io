@@ -31,6 +31,8 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 
 # News
+**2024-10-29** $\ \ \ \ $ ✨ *I gave a talk in BMM (Basilisk Monthly Meeting). Link for the talk: [link](http://basilisk.fr/BMM/README).*
+
 **2024-10-7** $\ \ \ \ $ ✨ *My PhD oral defence.*
 
 **2024-9-10** $\ \ \ \ $ ✨ *A JFM paper titled "Roll Waves on Laminar Sheet Flow of Newtonian Fluid with Negligible Surface Tension" is accepted.*
