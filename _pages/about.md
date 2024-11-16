@@ -35,7 +35,7 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 **2024-10-7** $\ \ \ \ $ ✨ *My PhD oral defence.*
 
-**2024-9-10** $\ \ \ \ $ ✨ *A JFM paper titled "Roll Waves on Laminar Sheet Flow of Newtonian Fluid with Negligible Surface Tension" is accepted.*
+**2024-9-10** $\ \ \ \ $ ✨ *[A JFM paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/roll-waves-on-laminar-sheet-flow-of-newtonian-fluid-with-negligible-surface-tension/4998E6F6D054CFC2C6596D7A371433E7) titled "Roll Waves on Laminar Sheet Flow of Newtonian Fluid with Negligible Surface Tension" is accepted.*
 
 **2024-7-19** $\ \ \ \ $ ✨ *A [JEM (Journal of Engineering Mechanics) paper](https://ascelibrary.org/doi/10.1061/JENMDT.EMENG-7931) is accepted. GitHub repository for the source code: [Link](https://github.com/MGYBY/roll-waves_Herschel-Bulkley_multilayer).*
 
