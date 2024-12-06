@@ -22,7 +22,7 @@ Kelvin-wave induced equatorial current that gets unstable. 3200x800 grid points 
 
 **Boyuan Yu**, and Vincent H. Chu,  
 *The front runner in roll waves produced by local disturbances*,   
-J. Fluid Mech., 932, A42 (2022) [18 pages];   
+Journal of Fluid Mechanics, 932, A42 (2022) [18 pages];   
 DOI: [10.1017/jfm.2021.1011](https://doi.org/10.1017/jfm.2021.1011).   
 <img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/jfm_1_figAbs.png" width="310px" >    
 <br />   
@@ -31,7 +31,7 @@ DOI: [10.1017/jfm.2021.1011](https://doi.org/10.1017/jfm.2021.1011).
 
 **Boyuan Yu**, and Vincent H. Chu,  
 *Impact force of roll waves against obstacles*,   
-J. Fluid Mech., 969, A31 (2023) [25 pages];   
+Journal of Fluid Mechanics, 969, A31 (2023) [25 pages];   
 DOI: [10.1017/jfm.2023.580](https://doi.org/10.1017/jfm.2023.580).    
 <img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/jfm_2_figAbs.png" width="360px" >   
 <br />   
@@ -40,7 +40,7 @@ DOI: [10.1017/jfm.2023.580](https://doi.org/10.1017/jfm.2023.580).
 
 **Boyuan Yu**, and Vincent H. Chu,  
 *Roll Waves in Mudflow Modelled as Herschel-Bulkley Fluids*,   
-J. Eng. Mech., 150, 12 (2024) [17 pages, in two-column pages];   
+Journal of Engineering Mechanics, 150, 12 (2024) [17 pages, in two-column pages];   
 DOI: [10.1061/JENMDT.EMENG-7931](https://ascelibrary.org/doi/10.1061/JENMDT.EMENG-7931).    
 <img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JEM_2024-7.jpg" width="675px" >   
 <br />  
@@ -50,9 +50,18 @@ DOI: [10.1061/JENMDT.EMENG-7931](https://ascelibrary.org/doi/10.1061/JENMDT.EMEN
 
 **Boyuan Yu**, and Vincent H. Chu,  
 *Roll Waves on Laminar Sheet Flow of Newtonian Fluid with Negligible Surface Tension*,   
-J. Fluid Mech., xxx, xxx (2024) [30 pages, in print];   
-DOI: TBD.    
-<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JFM_2024_graphicAbstract_1.jpg" width="450px" >   
+Journal of Fluid Mechanics, 999, A49 (2024) [31 pages];   
+DOI:  [10.1017/jfm.2024.887](http://dx.doi.org/10.1017/jfm.2024.887).    
+<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/JFM_2024_graphicAbstract_1.jpg" width="455px" >   
+<br />  
+
+---
+
+**Boyuan Yu**, and Vincent H. Chu,  
+*Direct numerical simulation of roll waves on landslide mudflow*,   
+Physics of Fluids, 36, 123108 (2024) [26 pages, in two-column pages];   
+DOI: [10.1063/5.0239285](http://dx.doi.org/10.1063/5.0239285).    
+<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/PoF_2024.jpg" width="455px" >   
 <br />  
 
 ---
