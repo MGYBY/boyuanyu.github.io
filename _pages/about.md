@@ -31,6 +31,8 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 
 # News
+**2024-12-5** $\ \ \ \ $ ✨ *[A PoF paper](https://pubs.aip.org/aip/pof/article/36/12/123108/3324003/Direct-numerical-simulation-of-roll-waves-on) is accepted.*
+
 **2024-10-29** $\ \ \ \ $ ✨ *I gave a talk in BMM (Basilisk Monthly Meeting). Link for the talk: [link](http://basilisk.fr/BMM/README).*
 
 **2024-10-7** $\ \ \ \ $ ✨ *My PhD oral defence.*
