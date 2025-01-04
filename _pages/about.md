@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Civil Engineering Department at McGill University, working with Professor [Vincent Chu](https://www.mcgill.ca/civil/vincent-h-chu-0).
+I am a postdoc researcher in the Civil Engineering Department at McGill University.
 
 I am originally from [Shijiazhuang](https://en.wikipedia.org/wiki/Shijiazhuang), China. In my spare time, I like going to the gym, reading books and taking a stroll.
 
@@ -26,11 +26,15 @@ Here are some of my research interests:
 * Multilayer equations.
 * Open-source CFD.
 * Spectral methods.
+* Density current and stratified flows.
+* Storm surge and flooding.
 
 For a more detailed description of my research, feel free to view my [CV](https://mgyby.github.io/boyuanyu.github.io//files/resume.pdf) and [publication list](https://mgyby.github.io/boyuanyu.github.io//publications/).
 
 
 # News
+**2025-1-3** $\ \ \ \ $ ✨ *A Wave Motion paper is online.*
+
 **2024-12-5** $\ \ \ \ $ ✨ *[A PoF paper](https://pubs.aip.org/aip/pof/article/36/12/123108/3324003/Direct-numerical-simulation-of-roll-waves-on) is accepted.*
 
 **2024-10-29** $\ \ \ \ $ ✨ *I gave a talk in BMM (Basilisk Monthly Meeting). Link for the talk: [link](http://basilisk.fr/BMM/README).*
