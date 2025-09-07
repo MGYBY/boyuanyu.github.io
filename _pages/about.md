@@ -33,7 +33,9 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 
 # News
-**2025-1-3** $\ \ \ \ $ ✨ *A Wave Motion paper is online.*
+**2025-9-6** $\ \ \ \ $ ✨ *A [Wave Motion paper](https://www.sciencedirect.com/journal/wave-motion) is accepted.*
+
+**2025-1-3** $\ \ \ \ $ ✨ *A [Wave Motion paper](https://www.sciencedirect.com/science/article/pii/S0165212524002142) is online.*
 
 **2024-12-5** $\ \ \ \ $ ✨ *[A PoF paper](https://pubs.aip.org/aip/pof/article/36/12/123108/3324003/Direct-numerical-simulation-of-roll-waves-on) is accepted.*
 
