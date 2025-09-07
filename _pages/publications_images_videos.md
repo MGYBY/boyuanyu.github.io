@@ -65,6 +65,16 @@ DOI: [10.1063/5.0239285](http://dx.doi.org/10.1063/5.0239285).
 <br />  
 
 ---
+
+**Boyuan Yu**, 
+*Improved prediction of the front runner in roll waves produced by localized disturbance*,   
+Wave Motion, 134(3):103484 (2025) [17 pages, in two-column pages];   
+DOI: [10.1016/j.wavemoti.2024.103484](https://www.sciencedirect.com/science/article/pii/S0165212524002142?via%3Dihub).    
+<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/WM_improved-fr.jpg" width="455px" >   
+<br />  
+
+---
+
 Best Video Contest of River Flow 2022     
 <video src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/jiang-jia-ravine_version2_1.mp4" controls="controls" style="max-width: 650px;">    
 </video>   
