@@ -33,6 +33,8 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 
 # News
+**2026-6-17** $\ \ \ \ $ ✨ *A [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering) is accepted.*
+
 **2025-9-6** $\ \ \ \ $ ✨ *A [Wave Motion paper](https://www.sciencedirect.com/journal/wave-motion) is accepted.*
 
 **2025-1-3** $\ \ \ \ $ ✨ *A [Wave Motion paper](https://www.sciencedirect.com/science/article/pii/S0165212524002142) is online.*
