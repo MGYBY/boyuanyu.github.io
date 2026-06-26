@@ -33,6 +33,8 @@ For a more detailed description of my research, feel free to view my [CV](https:
 
 
 # News
+**2026-6-25** $\ \ \ \ $ ✨ *Presentation in [WAVES2026](https://www.waves2026.org) conference in Concordia University, Montreal.*
+
 **2026-6-17** $\ \ \ \ $ ✨ *A [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering) is accepted.*
 
 **2025-9-6** $\ \ \ \ $ ✨ *A [Wave Motion paper](https://www.sciencedirect.com/journal/wave-motion) is accepted.*
