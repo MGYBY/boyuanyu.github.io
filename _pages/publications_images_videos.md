@@ -75,6 +75,15 @@ DOI: [10.1016/j.wavemoti.2024.103484](https://www.sciencedirect.com/science/arti
 
 ---
 
+**Boyuan Yu**, 
+*Storm surge risks and associated synoptic patterns for the Great Slave Lake shoreline*,   
+Wave Motion, 134(3):103484 (2025) [14 pages, in two-column pages];   
+DOI: [10.1016/j.rineng.2026.111612](https://doi.org/10.1016/j.rineng.2026.111612).    
+<img src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/RiE2026_abs.jpg" width="500px" >   
+<br />  
+
+---
+
 Best Video Contest of River Flow 2022     
 <video src="https://raw.githubusercontent.com/MGYBY/boyuanyu.github.io/master/images/jiang-jia-ravine_version2_1.mp4" controls="controls" style="max-width: 650px;">    
 </video>   
